@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1065014349983",
+    "project_id": "mira-monet",
+    "storage_bucket": "mira-monet.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065014349983:android:868a6a7e3f6484b18692aa",
+        "android_client_info": {
+          "package_name": "com.artist.artist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPupfrdJD66G1QwYXInkUhXBrHrhEMrlU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065014349983:android:e4dc59284bef6d248692aa",
+        "android_client_info": {
+          "package_name": "com.miramonet.artist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPupfrdJD66G1QwYXInkUhXBrHrhEMrlU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
